@@ -3,7 +3,7 @@ body{
 }
 
 footer {
-  animation-duration: 5s;
+  animation-duration: 25s;
   animation-name: slidein;
   animation-iteration-count: infinite;
 }
