@@ -54,7 +54,6 @@ h4 {
     padding-right: 100%;
     animation-timing-function: linear;
     animation: ticker 75s infinite;
-    animation-direction: alternate;
 }
 
 .ticker-item {
