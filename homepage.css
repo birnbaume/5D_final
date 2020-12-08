@@ -48,10 +48,7 @@ h4 {
     padding-right: 100%;
     animation-timing-function: linear;
     animation: ticker 75s infinite;
-}
-
-.ticker-move:hover {
-    animation-play-state: paused;
+    animation-direction: alternate;
 }
 
 .ticker-item {
