@@ -1,11 +1,19 @@
-body{
+body {
    background: #9542E1;
 }
 
-h4{
+h4 {
   border: 1px solid black;
   overflow: hidden;
   white-space: nowrap;
+}
+
+
+.msnbc {
+   display: flex;
+   flex-direction: column;
+   position: static;
+   top: 40px;
 }
 
 .tcontainer {
