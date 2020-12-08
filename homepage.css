@@ -8,6 +8,11 @@ h4 {
   white-space: nowrap;
 }
 
+.mn {
+   margin-left: 1000px;
+   width: 294px;
+   position: absolute;
+}
 
 .msnbc {
    display: flex;
