@@ -36,7 +36,7 @@ a {
    margin-left: 60px;
    margin-right: 100px;
    background-color: rgb(150, 37, 241, 50%);
-   padding: 10px;
+   padding: 10px 10px 10px 10px;
 }
 
 .msnbc {
