@@ -37,7 +37,9 @@ a {
    display: flex;
    flex-direction: column;
    position: static;
-   top: 40px;
+   margin-top: 6px;
+   margin-right: 860px;
+   padding-left: 20px;
 }
 
 .breitbart {
