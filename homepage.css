@@ -46,9 +46,10 @@ a {
    display: flex;
    flex-direction: column;
    position: relative;
-   top: -330px;
-   margin-left: 1000px;
+   top: -742px;
+   margin-left: 900px;
    margin-top: 22px;
+   padding-right: 20px;
 }
 
 .tcontainer {
