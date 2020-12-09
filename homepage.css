@@ -31,6 +31,11 @@ a {
    padding: 5px;
 }
 
+.ex {
+   margin-left: 60px;
+   margin-right: 100px;
+}
+
 .msnbc {
    display: flex;
    flex-direction: column;
