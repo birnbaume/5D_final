@@ -17,6 +17,10 @@ main {
    position: absolute;
 }
 
+#mn,
+#bb {
+   padding: 20px;
+}
 .msnbc {
    display: flex;
    flex-direction: column;
