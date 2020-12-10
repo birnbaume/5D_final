@@ -87,3 +87,8 @@ a {
     font-size: 20px;
     color: white;
 }
+
+footer {
+   position: absolute;
+   bottom: -1165px;
+}
