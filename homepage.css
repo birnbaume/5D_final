@@ -78,7 +78,7 @@ a {
     white-space: nowrap;
     padding-right: 100%;
     animation-timing-function: linear;
-    animation: ticker 75s infinite;
+    animation: ticker 80s infinite;
 }
 
 .ticker-item {
