@@ -92,3 +92,7 @@ footer {
    position: absolute;
    bottom: -1165px;
 }
+
+#citing {
+   font-size: 14px;
+}
