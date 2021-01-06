@@ -67,6 +67,9 @@ a {
    padding-right: 20px;
 }
 
+p {
+   color: white;
+}
 .tcontainer {
     width: 100%;
     overflow: hidden;
