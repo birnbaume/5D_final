@@ -70,6 +70,12 @@ a {
 p {
    color: white;
 }
+
+.m1 {
+   background-color: rgba(0, 39, 255);
+   padding-left: 20px;
+}
+
 .tcontainer {
     width: 100%;
     overflow: hidden;
