@@ -13,8 +13,10 @@ main {
 
 h1 {
    position: absolute;
-   margin-left: 1300px;
    color: #9144E1;
+   margin-left: 525px;
+   margin-top: 0px;
+   padding: 10px 800px 20px 40px;
 }
 
 #bb {
