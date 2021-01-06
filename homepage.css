@@ -13,9 +13,9 @@ main {
 
 h1 {
    position: absolute;
-   color: #9144E1;
    margin-left: 525px;
    margin-top: 0px;
+   color: white;
    padding: 10px 800px 20px 40px;
 }
 
